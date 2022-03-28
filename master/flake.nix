@@ -11,6 +11,7 @@
   inputs.src-huffman-master.ref   = "refs/heads/master";
   inputs.src-huffman-master.owner = "xzeshen";
   inputs.src-huffman-master.repo  = "huffman";
+  inputs.src-huffman-master.dir   = "";
   inputs.src-huffman-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
