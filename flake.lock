@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652797066,
-        "narHash": "sha256-Ui+aLrDDwFuw6FmL9NaANcQX9Y2bnoARx48CV9C5kgA=",
+        "lastModified": 1653689796,
+        "narHash": "sha256-se/8iNkkF7TZGdMY/u+kZbzNClmoYrnwRqNFNCHi7Tc=",
         "owner": "nim-nix-pkgs",
         "repo": "huffman",
-        "rev": "7b663f864a640c6fd9095a0f3a2e5c029793c7dd",
+        "rev": "c14e662959bb45d7c64772dd0eb96b1b0a299c37",
         "type": "github"
       },
       "original": {
