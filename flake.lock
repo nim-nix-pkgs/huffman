@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696399,
-        "narHash": "sha256-5lIgdPRmP3UkWAdodJdvP9H5BujVrVeW9HfbfdlNC6k=",
+        "lastModified": 1653701931,
+        "narHash": "sha256-lyiwL4qY97tUGcNThFk41L7PBYdD0HisdHz+kaHVe68=",
         "owner": "nim-nix-pkgs",
         "repo": "huffman",
-        "rev": "337d1f9fe238df07dfb8c1ef1e6162e806c1ffb5",
+        "rev": "31d9adc28a1f6f1ee9a970658981d1a263dfbd3f",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
